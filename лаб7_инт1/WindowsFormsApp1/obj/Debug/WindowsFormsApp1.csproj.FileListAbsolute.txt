@@ -1,0 +1,31 @@
+E:\3 курс\МДК 01.01\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\3 курс\МДК 01.01\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\3 курс\МДК 01.01\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\3 курс\МДК 01.01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\3 курс\МДК 01.01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\3 курс\МДК 01.01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\3 курс\МДК 01.01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\3 курс\МДК 01.01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\3 курс\МДК 01.01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\3 курс\МДК 01.01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\3 курс\МДК 01.01\Лабораторная работа 7\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\3 курс\МДК 01.01\Лабораторная работа 7\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\3 курс\МДК 01.01\Лабораторная работа 7\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\3 курс\МДК 01.01\Лабораторная работа 7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\3 курс\МДК 01.01\Лабораторная работа 7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\3 курс\МДК 01.01\Лабораторная работа 7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\3 курс\МДК 01.01\Лабораторная работа 7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\3 курс\МДК 01.01\Лабораторная работа 7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\3 курс\МДК 01.01\Лабораторная работа 7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\3 курс\МДК 01.01\Лабораторная работа 7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\3 курс\МДК 01.01\Лабораторная работа 7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\3 курс\МДК 01.01\Лабораторная работа 7\лаб7_инт1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\3 курс\МДК 01.01\Лабораторная работа 7\лаб7_инт1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\3 курс\МДК 01.01\Лабораторная работа 7\лаб7_инт1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\3 курс\МДК 01.01\Лабораторная работа 7\лаб7_инт1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\3 курс\МДК 01.01\Лабораторная работа 7\лаб7_инт1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\3 курс\МДК 01.01\Лабораторная работа 7\лаб7_инт1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\3 курс\МДК 01.01\Лабораторная работа 7\лаб7_инт1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\3 курс\МДК 01.01\Лабораторная работа 7\лаб7_инт1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\3 курс\МДК 01.01\Лабораторная работа 7\лаб7_инт1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\3 курс\МДК 01.01\Лабораторная работа 7\лаб7_инт1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
